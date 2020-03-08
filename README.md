@@ -5,7 +5,7 @@ Implementation of a Spring Boot microservice integrated with multiple open sourc
 ## Build and Deploy Localy
 
 ```
-./gradlew build
+./mvnw build
 docker build -t open-stack-service:latest .
 docker network create open-stack
 docker-compose up
