@@ -1,4 +1,4 @@
-package open.stack.awshelloworld;
+package open.stack.openstackservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class OpenStackService {
+public class OpenStackServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OpenStackService.class, args);
+		SpringApplication.run(OpenStackServiceApplication.class, args);
 	}
 
 }

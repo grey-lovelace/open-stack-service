@@ -1,4 +1,4 @@
-package open.stack.awshelloworld;
+package open.stack.openstackservice;
 
 import static org.assertj.core.api.Assertions.*;
 

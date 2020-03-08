@@ -1,4 +1,4 @@
-package open.stack.awshelloworld;
+package open.stack.openstackservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

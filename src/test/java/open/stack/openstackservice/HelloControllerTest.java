@@ -1,4 +1,4 @@
-package open.stack.awshelloworld;
+package open.stack.openstackservice;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
